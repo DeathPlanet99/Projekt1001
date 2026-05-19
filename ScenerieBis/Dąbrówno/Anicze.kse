@@ -1,0 +1,388 @@
+﻿P;0;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;0;4;NP1D;NP1D
+T;0;5;False;Poziomo;True;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;(Db)
+T;0;6;False;Poziomo;True;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;Dąbrówno;
+L;0;7;NO2D;NO2D
+P;0;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;11;False;KasowanieRozprucia;;LewyGórny;Czarny;True;Brak;Okrągła;PrawyGórny;An_1ab An_2;Brak;Center;Center;Kr1ab/2
+P;0;12;False;PomijanieZajętości;;LewyGórny;Czarny;True;Brak;Okrągła;Brak;An_Iz1 An_Iz2_3;Brak;Center;Center;Iz1ab/2
+P;0;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;1;0;SzP;SzP
+P;1;1;False;SygnałZastępczy;SzP;LewyGórny;Czarny;False;Brak;Okrągła;Brak;An_P;Brak;Center;Center;SzP
+P;1;2;False;PrzebiegPociągowy;;LewyGórny;Czarny;True;PrawyGórny;Okrągła;Brak;An_P;Brak;Center;Center;zp
+P;1;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;4;False;NiewłaściwyPrzyjazd;NP1D;LewyGórny;Czarny;False;LewyDolny;StrzałkaWPrawo;Brak;An_it1D An_ItP;Brak;Center;Center;NP1D
+T;1;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it1D;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaOstrzegawcza;RosnącyKilometrażNiewłaściwa;;;;;An_ToP;Brak;Brak;Brak;False;Brak;;;ToP
+T;1;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it2D;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaOstrzegawcza;RosnącyKilometraż;;;;;An_ToR;Brak;Brak;Brak;False;Brak;;ToR;
+P;1;7;False;NiewłaściwyOdjazd;NO2D;LewyGórny;Czarny;False;LewyDolny;StrzałkaWLewo;Brak;An_ItR;Brak;Center;Center;NO2D
+P;1;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;11;False;KasowanieRozprucia;;LewyGórny;Czarny;True;Brak;Okrągła;PrawyGórny;An_1cd An_Wk1;Brak;Center;Center;Kr1cd/Wk1
+P;1;12;False;PomijanieZajętości;;LewyGórny;Czarny;True;Brak;Okrągła;Brak;An_Iz1;Brak;Center;Center;Iz1cd/Wk1
+P;1;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;2;0;SzR;SzR
+P;2;1;False;SygnałZastępczy;SzR;LewyGórny;Czarny;False;Brak;Okrągła;Brak;An_R;Brak;Center;Center;SzR
+P;2;2;False;PrzebiegPociągowy;;LewyGórny;Czarny;True;PrawyGórny;Okrągła;Brak;An_R;Brak;Center;Center;zr
+P;2;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;2;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it1D;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;2;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it2D;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;2;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;11;False;KasowanieRozprucia;;LewyGórny;Czarny;True;Brak;Okrągła;PrawyGórny;An_3 An_4;Brak;Center;Center;Kr3/4
+P;2;12;False;PomijanieZajętości;;LewyGórny;Czarny;True;Brak;Okrągła;Brak;An_Iz2_3 An_Iz4;Brak;Center;Center;Iz3/4
+P;2;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;3;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it1D;;;;;;PrawyGórny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;An_P;Brak;Brak;Brak;False;Brak;;P;
+T;3;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it2D;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;An_R;Brak;Brak;Brak;False;Brak;;;R
+K;3;7;False;False;ZPrawej;Prosto;False;;;Brak;Czarny;False;;Brak;Brak;Brak
+P;3;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;11;False;KasowanieRozprucia;;LewyGórny;Czarny;True;Brak;Okrągła;PrawyGórny;An_5 An_Wk2;Brak;Center;Center;Kr5/Wk2
+P;3;12;False;PomijanieZajętości;;LewyGórny;Czarny;True;Brak;Okrągła;Brak;An_Iz5;Brak;Center;Center;Iz5/Wk2
+P;3;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+PK;4;0
+P;4;3;False;DzwonekSygnalizacjiRozprucia;;LewyGórny;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;DzKr
+P;4;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;4;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_ItP;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Semafor;RosnącyKilometrażNiewłaściwa;An_ToP;;;;An_P;Brak;Brak;Brak;False;Brak;;;
+T;4;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_ItR;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Semafor;RosnącyKilometraż;An_ToR;;;;An_R;Brak;Brak;Brak;False;Brak;;;
+T;4;7;False;Poziomo;False;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;101;
+P;4;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;11;False;KasowanieRozprucia;;LewyGórny;Czarny;True;Brak;Okrągła;PrawyGórny;An_6;Brak;Center;Center;Kr6
+P;4;12;False;PomijanieZajętości;;LewyGórny;Czarny;True;Brak;Okrągła;Brak;An_Iz6;Brak;Center;Center;Iz6
+P;4;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+Z;5;5;False;False;Poziomo;LewoDół;NieDotyczy;False;False;NaWprost;False;An_4;An_3;True;True;True;False;False;An_Iz4;;;;Brak;Brak;False;4
+Z;5;6;False;False;Poziomo;GóraPrawo;NieDotyczy;False;False;NaWprost;True;An_3;An_4;True;True;True;False;False;An_Iz2_3;;;;Brak;Brak;False;3/4
+T;5;7;False;Poziomo;False;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;5;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;11;False;KasowanieRozprucia;;LewyGórny;Czarny;True;Brak;Okrągła;PrawyGórny;An_7;Brak;Center;Center;Kr7
+P;5;12;False;PomijanieZajętości;;LewyGórny;Czarny;True;Brak;Okrągła;Brak;An_Iz7;Brak;Center;Center;Iz7
+P;5;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;3;False;WyłącznikNapięciaNastawczego;;LewyGórny;Czarny;False;Brak;Okrągła;PrawyGórny;;Brak;Center;Center;|oN
+P;6;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;6;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_Iz4;An_4+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;6;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_Iz2_3;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;6;7;False;Poziomo;False;True;True;Prosta;False;False;False;False;An_Iz1;An_1ab+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;TarczaManewrowa;RosnącyKilometraż;;;;;An_Tm1;Brak;Brak;Brak;False;Brak;;Tm1;
+DR;6;8;False;DoGóry;An
+P;6;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;11;False;KasowanieRozprucia;;LewyGórny;Czarny;True;Brak;Okrągła;PrawyGórny;An_12;Brak;Center;Center;Kr12
+P;6;12;False;PomijanieZajętości;;LewyGórny;Czarny;True;Brak;Okrągła;Brak;An_Iz12;Brak;Center;Center;Iz12
+P;6;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;7;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_Iz4;An_4+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+Z;7;6;False;False;Poziomo;LewoDół;NieDotyczy;False;False;NaWprost;False;An_2;An_1ab;True;True;True;False;False;An_Iz2_3;;;;Brak;Brak;False;2
+Z;7;7;False;False;Poziomo;GóraPrawo;NieDotyczy;False;False;NaWprost;True;An_1ab;An_2;False;True;True;False;False;An_Iz1;;;;Brak;Brak;False;1ab/2
+P;7;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Far;Far;
+P;7;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;11;False;KasowanieRozprucia;;LewyGórny;Czarny;True;Brak;Okrągła;PrawyGórny;An_13;Brak;Center;Center;Kr13
+P;7;12;False;PomijanieZajętości;;LewyGórny;Czarny;True;Brak;Okrągła;Brak;An_Iz13;Brak;Center;Center;Iz13
+P;7;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;8;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_ItB;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;8;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_Iz2_3;An_2+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+Z;8;7;False;False;Poziomo;LewoDół;NieDotyczy;False;False;NaWprost;True;An_1cd;An_Wk1;True;False;True;False;False;An_Iz1;;;;Brak;Brak;False;1cd
+Z;8;8;False;False;PionowoZGóryDoDołu;LewoDół;TorPoProstej;False;False;PodSkosem;False;An_Wk1;An_1cd;False;False;True;False;False;An_Iz1;An_1cd-;;;Brak;Brak;False;Wk1
+T;8;9;False;PionowoZGóryDoDołu;False;True;True;Prosta;False;False;False;False;An_Iz1;An_1-;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaManewrowa;MalejącyKilometraż;;;;;An_Tm2;Brak;Brak;Brak;False;Brak;;;Tm2
+T;8;10;False;PionowoZGóryDoDołu;False;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;8;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;Cemen|townia
+P;8;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;9;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_ItB;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;9;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_ItA;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+Z;9;7;False;False;Poziomo;LewoDół;NieDotyczy;False;False;NaWprost;True;An_5;An_Wk2;True;False;True;False;False;An_Iz5;;;;Brak;Brak;False;5
+Z;9;8;False;False;PionowoZGóryDoDołu;LewoDół;TorPoProstej;False;False;PodSkosem;False;An_Wk2;An_5;False;False;True;False;False;An_Iz5;An_5-;;;Brak;Brak;False;Wk2
+T;9;9;False;PionowoZGóryDoDołu;False;True;True;Prosta;False;False;False;False;An_Iz5;An_5-;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaManewrowa;MalejącyKilometraż;;;;;An_Tm3;Brak;Brak;Brak;False;Brak;;;
+T;9;10;False;PionowoZGóryDoDołu;False;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;9;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;Elektro|ciepłownia
+P;9;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;10;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_ItB;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Semafor;MalejącyKilometraż;An_ToB;;;;An_B;Brak;Brak;Brak;False;Brak;;;
+T;10;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_ItA;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Semafor;MalejącyKilometrażNiewłaściwa;An_ToA;;;;An_A;Brak;Brak;Brak;False;Brak;;;
+T;10;7;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_Iz5;An_5+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaManewrowa;MalejącyKilometraż;;;;;An_Tm4;Brak;Brak;Brak;False;Brak;;;Tm4
+P;10;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Far;Near;Tm3
+P;10;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;11;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it1U;;;;;;LewyGórny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;An_B;Brak;Brak;Brak;False;Brak;;B;
+T;11;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it2U;;;;;;LewyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;RosnącyKilometraż;;;;;An_A;Brak;Brak;Brak;False;Brak;;;A
+T;11;7;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_It4a;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;4a;It4a
+S;11;8;False;False;DółPrawo;False;True;True;True;False;False;False;An_Iz7;An_7-;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+T;11;9;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_Iz7;An_7-;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;An_F;Brak;Brak;Brak;False;Brak;;;
+T;11;10;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It8;;;;;;PrawyGórny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;An_F;Brak;Brak;Brak;False;Brak;;;F
+T;11;11;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It8;;;;;;PrawyGórny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;An_F;Brak;Brak;Brak;False;Brak;;8;Fm
+T;11;12;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It8;;;;;;LewyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;MalejącyKilometraż;;;;;An_L;Brak;Brak;Brak;False;Brak;;Lm;
+T;11;13;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_Iz13;An_13-;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaDoDołu;TarczaZaporowa;MalejącyKilometraż;;;;;An_L;Brak;Brak;Brak;False;Brak;;;
+S;11;14;False;False;GóraPrawo;False;True;True;True;False;False;False;An_Iz13;An_13-;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+P;11;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;12;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it1U;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;12;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it2U;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;12;7;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_Iz6;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;TarczaManewrowa;RosnącyKilometraż;;;;;An_Tm5;Brak;Brak;Brak;False;Brak;;Tm5;
+Z;12;8;False;False;Poziomo;DółPrawo;NieDotyczy;False;False;PodSkosem;True;An_7;;True;True;True;False;False;An_Iz7;;;;Brak;Brak;False;7
+T;12;9;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_Iz7;An_7+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;An_G;Brak;Brak;Brak;False;Brak;;;
+T;12;10;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It6;;;;;;PrawyGórny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;An_G;Brak;Brak;Brak;False;Brak;;;G
+T;12;11;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It6;;;;;;PrawyGórny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;An_G;Brak;Brak;Brak;False;Brak;;6;Gm
+T;12;12;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It6;;;;;;LewyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;MalejącyKilometraż;;;;;An_K;Brak;Brak;Brak;False;Brak;;Km;
+T;12;13;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_Iz13;An_13+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaZaporowa;MalejącyKilometraż;;;;;An_K;Brak;Brak;Brak;False;Brak;;;
+Z;12;14;False;False;Poziomo;GóraPrawo;NieDotyczy;False;False;PodSkosem;True;An_13;;True;True;True;False;False;An_Iz13;;;;Brak;Brak;False;13
+P;12;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;4;True;NiewłaściwyOdjazd;NO1U;PrawyGórny;Czerwony;False;PrawyDolny;StrzałkaWPrawo;Brak;An_ItB;Brak;Center;Center;NO1U
+T;13;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it1U;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;TarczaOstrzegawcza;MalejącyKilometraż;;;;;An_ToB;Brak;Brak;Brak;False;Brak;;;ToB
+T;13;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;An_it2U;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;TarczaOstrzegawcza;MalejącyKilometrażNiewłaściwa;;;;;An_ToA;Brak;Brak;Brak;False;Brak;;ToA;
+S;13;7;False;False;LewoDół;False;True;True;True;False;False;False;An_Iz6;;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+Z;13;8;False;False;PionowoZDołuDoGóry;LewoGóra;NieDotyczy;False;False;NaWprost;True;An_6;;True;True;True;False;False;An_Iz6;;;;Brak;Brak;False;6
+T;13;9;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_Iz6;An_6+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;An_H;Brak;Brak;Brak;False;Brak;;;
+T;13;10;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It4;;;;;;PrawyGórny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;An_H;Brak;Brak;Brak;False;Brak;;;H
+T;13;11;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It4;;;;;;PrawyGórny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;An_H;Brak;Brak;Brak;False;Brak;;4;Hm
+T;13;12;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It4;;;;;;LewyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;An_J;Brak;Brak;Brak;False;Brak;;Jm;
+T;13;13;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_Iz12;An_12+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaZaporowa;MalejącyKilometraż;;;;;An_J;Brak;Brak;Brak;False;Brak;;;
+Z;13;14;False;False;PionowoZDołuDoGóry;LewoDół;NieDotyczy;False;False;NaWprost;True;An_12;;True;True;True;False;False;An_Iz12;;;;Brak;Brak;False;12
+T;13;15;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_Iz12;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaManewrowa;RosnącyKilometraż;;;;;An_Tm8;Brak;Brak;Brak;False;Brak;;;
+T;13;16;False;PionowoZDołuDoGóry;True;True;True;Prosta;False;False;False;False;An_It4b;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;4b;
+K;13;17;False;False;ZGóry;Prosto;True;;;Brak;Czarny;False;;Brak;Brak;Brak
+L;14;0;SzA;SzA
+P;14;1;False;SygnałZastępczy;SzA;LewyGórny;Czarny;False;Brak;Okrągła;Brak;An_A;Brak;Center;Center;SzA
+P;14;2;False;PrzebiegPociągowy;;LewyGórny;Czarny;True;PrawyGórny;Okrągła;Brak;An_A;Brak;Center;Center;za
+P;14;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;14;4;NO1U;NO1U
+T;14;5;False;Poziomo;True;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;14;6;False;Poziomo;True;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;14;7;False;NiewłaściwyPrzyjazd;NP2U;PrawyGórny;Czerwony;False;PrawyDolny;StrzałkaWLewo;Brak;An_it2U An_ItA;Brak;Center;Center;NP2U
+P;14;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Far;Near;Tm8
+P;14;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;15;0;SzB;SzB
+P;15;1;False;SygnałZastępczy;SzB;LewyGórny;Czarny;False;Brak;Okrągła;Brak;An_B;Brak;Center;Center;SzB
+P;15;2;False;PrzebiegPociągowy;;LewyGórny;Czarny;True;PrawyGórny;Okrągła;Brak;An_B;Brak;Center;Center;zb
+L;15;3;dPo1U;dPo1U
+P;15;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;{Ur:1}
+T;15;5;False;Poziomo;True;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;1U;
+T;15;6;False;Poziomo;True;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;2U;
+L;15;7;NP2U;NP2U
+L;15;8;dPo2U;dPo2U
+P;15;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;{Ur:2}
+P;15;10;False;PrzebiegManewrowy;;LewyGórny;Czarny;False;PrawyGórny;Okrągła;Brak;An_G An_F;Brak;Far;Center;zfm|zgm
+P;15;11;False;PrzebiegManewrowy;;LewyGórny;Czarny;False;PrawyGórny;Okrągła;Brak;An_Tm5 An_H;Brak;Far;Center;zhm|ztm5
+P;15;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;16;0;SzF;SzF
+P;16;1;False;SygnałZastępczy;SzF;LewyGórny;Czarny;False;Brak;Okrągła;Brak;An_F;Brak;Center;Center;SzF
+P;16;2;False;PrzebiegPociągowy;;LewyGórny;Czarny;True;PrawyGórny;Okrągła;Brak;An_F;Brak;Center;Center;zf
+P;16;3;True;DoraźnyKońcowy;dPo1U;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ur:1;Brak;Far;Center;dPo1U
+P;16;4;True;WłączenieBlokady;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;Ur:1;Brak;Far;Center;Po1U
+T;16;5;False;Poziomo;False;True;True;StrzałkaRosnącyKilometraż;False;False;False;False;;;;;An_ItB;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;Ur:1;Brak;Brak;Brak;False;Odjazd;;odjazd;
+T;16;6;False;Poziomo;False;True;True;StrzałkaRosnącyKilometraż;False;False;False;False;;;;;An_ItA;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;Ur:2;Brak;Brak;Brak;False;Odjazd;;;odjazd
+P;16;7;True;WłączenieBlokady;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;Ur:2;Brak;Far;Center;Po2U
+P;16;8;True;DoraźnyPoczątkowy;dPo2U;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ur:2;Brak;Far;Center;dPo2U
+P;16;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;10;False;PrzebiegManewrowy;;LewyGórny;Czarny;False;PrawyGórny;Okrągła;Brak;An_K An_L;Brak;Far;Center;zlm|zkm
+P;16;11;False;PrzebiegManewrowy;;LewyGórny;Czarny;False;PrawyGórny;Okrągła;Brak;An_J An_Tm8;Brak;Far;Center;zjm|ztm8
+P;16;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;17;0;SzG;SzG
+P;17;1;False;SygnałZastępczy;SzG;LewyGórny;Czarny;False;Brak;Okrągła;Brak;An_G;Brak;Center;Center;SzG
+P;17;2;False;PrzebiegPociągowy;;LewyGórny;Czarny;True;PrawyGórny;Okrągła;Brak;An_G;Brak;Center;Center;zg
+L;17;3;dKoB;dKoB
+P;17;4;True;Pozwolenie;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;Ur:1;Brak;Far;Center;Poz1U
+T;17;5;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;Ur:1;Brak;Brak;Brak;False;Pozwolenie;;;Pwl1U
+T;17;6;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;Ur:2;Brak;Brak;Brak;False;Pozwolenie;;;Pwl2U
+P;17;7;True;Pozwolenie;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;Ur:2;Brak;Far;Center;Poz2U
+L;17;8;dKoA;dKoA
+P;17;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;10;False;PrzebiegManewrowy;;LewyGórny;Czarny;False;PrawyGórny;Okrągła;Brak;An_Tm2 An_Tm1;Brak;Far;Center;ztm2|ztm1
+P;17;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;18;0;SzH;SzH
+P;18;1;False;SygnałZastępczy;SzH;LewyGórny;Czarny;False;Brak;Okrągła;Brak;An_H;Brak;Center;Center;SzH
+P;18;2;False;PrzebiegPociągowy;;LewyGórny;Czarny;True;PrawyGórny;Okrągła;Brak;An_H;Brak;Center;Center;zh
+P;18;3;True;DoraźnyPoczątkowy;dKoB;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Ur:1;Brak;Far;Center;dKoB
+P;18;4;True;ZwolnienieBlokady;;PrawyGórny;Czerwony;False;LewyGórny;Okrągła;Brak;Ur:1;Brak;Far;Center;KoB
+T;18;5;False;Poziomo;False;True;True;StrzałkaMalejącyKilometraż;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;Ur:1;Brak;Brak;Brak;False;Przyjazd;;przyjazd;
+T;18;6;False;Poziomo;False;True;True;StrzałkaMalejącyKilometraż;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWLewo;Brak;MalejącyKilometraż;;;;;Ur:2;Brak;Brak;Brak;False;Przyjazd;;;przyjazd
+P;18;7;True;ZwolnienieBlokady;;PrawyGórny;Czerwony;False;LewyGórny;Okrągła;Brak;Ur:2;Brak;Far;Center;KoA
+P;18;8;True;DoraźnyKońcowy;dKoA;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Ur:2;Brak;Far;Center;dKoA
+P;18;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;10;False;PrzebiegManewrowy;;LewyGórny;Czarny;False;PrawyGórny;Okrągła;Brak;An_Tm4 An_Tm3;Brak;Far;Center;ztm4|ztm3
+P;18;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;17;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+KS;Pociąg;An_A;1;An_it2U;An_ItP;p40;Max;;False
+SP;Pociąg;An_A;1;1;An_ItA An_Iz2_3 An_Iz4;;An_2+ An_3- An_4-
+KS;Pociąg;An_A;2;An_it2U;An_ItR;Max;Max;;False
+SP;Pociąg;An_A;2;1;An_ItA An_Iz2_3 ;;An_2+ An_3+
+KS;Pociąg;An_B;1;An_it1U;An_ItP;Max;Max;;False
+SP;Pociąg;An_B;1;1;An_ItB An_Iz4;;An_4+
+KS;Pociąg;An_F;1;An_It8;An_it1D;p40;Max;;False
+SP;Pociąg;An_F;1;1;An_Iz7 An_Iz6 An_It4a An_Iz5 An_Iz1 An_Iz2_3 An_Iz4;;An_7- An_6- An_5+ An_1cd+ An_1ab- An_2- An_3- An_4- An_Wk1+ An_Wk2+
+KS;Pociąg;An_F;2;An_It8;An_it2D;p40;Max;;False
+SP;Pociąg;An_F;2;1;An_Iz7 An_Iz6 An_It4a An_Iz5 An_Iz1 An_Iz2_3;;An_7- An_6- An_5+ An_1cd+ An_1ab- An_2- An_3+ An_Wk1+ An_Wk2+
+KS;Pociąg;An_G;1;An_It6;An_it1D;p40;Max;;False
+SP;Pociąg;An_G;1;1;An_Iz7 An_Iz6 An_It4a An_Iz5 An_Iz1 An_Iz2_3 An_Iz4;;An_7+ An_6- An_5+ An_1cd+ An_1ab- An_2- An_3- An_4- An_Wk1+ An_Wk2+
+KS;Pociąg;An_G;2;An_It6;An_it2D;p40;Max;;False
+SP;Pociąg;An_G;2;1;An_Iz7 An_Iz6 An_It4a An_Iz5 An_Iz1 An_Iz2_3;;An_7+ An_6- An_5+ An_1cd+ An_1ab- An_2- An_3+ An_Wk1+ An_Wk2+
+KS;Pociąg;An_H;1;An_It4;An_it1D;p40;Max;;False
+SP;Pociąg;An_H;1;1;An_Iz6 An_It4a An_Iz5 An_Iz1 An_Iz2_3 An_Iz4;;An_6+ An_5+ An_1cd+ An_1ab- An_2- An_3- An_4- An_Wk1+ An_Wk2+
+KS;Pociąg;An_H;2;An_It4;An_it2D;p40;Max;;False
+SP;Pociąg;An_H;2;1;An_Iz6 An_It4a An_Iz5 An_Iz1 An_Iz2_3;;An_6+ An_5+ An_1cd+ An_1ab- An_2- An_3+ An_Wk1+ An_Wk2+
+KS;Pociąg;An_P;1;An_it1D;An_ItB;Max;Max;;False
+SP;Pociąg;An_P;1;1;An_ItP An_Iz4;;An_4+
+KS;Pociąg;An_P;2;An_it1D;An_ItA;p40;Max;;False
+SP;Pociąg;An_P;2;1;An_ItP An_Iz4 An_Iz2_3;;An_4- An_3- An_2+
+KS;Pociąg;An_P;3;An_it1D;An_It8;p40;Max;An_L;False
+SP;Pociąg;An_P;3;1;An_ItP An_Iz4 An_Iz2_3 An_Iz1 An_Iz5 An_It4a An_Iz6 An_Iz7;;An_4- An_3- An_2- An_1ab- An_1cd+ An_5+ An_6- An_7- An_Wk1+ An_Wk2+
+KS;Pociąg;An_P;4;An_it1D;An_It6;p40;Max;An_K;False
+SP;Pociąg;An_P;4;1;An_ItP An_Iz4 An_Iz2_3 An_Iz1 An_Iz5 An_It4a An_Iz6 An_Iz7;;An_4- An_3- An_2- An_1ab- An_1cd+ An_5+ An_6- An_7+ An_Wk1+ An_Wk2+
+KS;Pociąg;An_P;5;An_it1D;An_It4;p40;Max;An_J;False
+SP;Pociąg;An_P;5;1;An_ItP An_Iz4 An_Iz2_3 An_Iz1 An_Iz5 An_It4a An_Iz6;;An_4- An_3- An_2- An_1ab- An_1cd+ An_5+ An_6+ An_Wk1+ An_Wk2+
+KS;Pociąg;An_R;1;An_it2D;An_ItA;Max;Max;;False
+SP;Pociąg;An_R;1;1;An_ItR An_Iz2_3;;An_3+ An_2+
+KS;Pociąg;An_R;2;An_it2D;An_It8;p40;Max;An_L;False
+SP;Pociąg;An_R;2;1;An_ItR An_Iz2_3 An_Iz1 An_Iz5 An_It4a An_Iz6 An_Iz7;;An_3+ An_2- An_1ab- An_1cd+ An_5+ An_6- An_7- An_Wk1+ An_Wk2+
+KS;Pociąg;An_R;3;An_it2D;An_It6;p40;Max;An_K;False
+SP;Pociąg;An_R;3;1;An_ItR An_Iz2_3 An_Iz1 An_Iz5 An_It4a An_Iz6 An_Iz7;;An_3+ An_2- An_1ab- An_1cd+ An_5+ An_6- An_7+ An_Wk1+ An_Wk2+
+KS;Pociąg;An_R;4;An_it2D;An_It4;p40;Max;An_J;False
+SP;Pociąg;An_R;4;1;An_ItR An_Iz2_3 An_Iz1 An_Iz5 An_It4a  An_Iz6;;An_3+ An_2- An_1ab- An_1cd+ An_5+ An_6+ An_Wk1+ An_Wk2+
+KS;Manewr;An_F;1;An_It8;An_It4a;Max;Max;;False
+SP;Manewr;An_F;1;1;An_Iz7 An_Iz6 ;;An_7- An_6-
+KS;Manewr;An_G;1;An_It6;An_It4a;Max;Max;;False
+SP;Manewr;An_G;1;1;An_Iz7 An_Iz6;;An_7+ An_6-
+KS;Manewr;An_H;1;An_It4;An_It4a;Max;Max;;False
+SP;Manewr;An_H;1;1;An_Iz6;;An_6+
+KS;Manewr;An_J;1;An_It4;An_It4b;Max;Max;;False
+SP;Manewr;An_J;1;1;An_Iz12;;An_12+
+KS;Manewr;An_K;1;An_It6;An_It4b;Max;Max;;False
+SP;Manewr;An_K;1;1;An_Iz13 An_Iz12;;An_13+ An_12-
+KS;Manewr;An_L;1;An_It8;An_It4b;Max;Max;;False
+SP;Manewr;An_L;1;1;An_Iz13 An_Iz12;;An_13- An_12-
+KS;Manewr;An_Tm1;1;An_Iz1;An_It4a;Max;Max;;False
+SP;Manewr;An_Tm1;1;1;An_Iz1 An_Iz5;;An_1ab+ An_1cd+ An_5+ An_Wk1+ An_Wk2+
+KS;Manewr;An_Tm1;2;An_Iz1;An_Iz1;Max;Max;;False
+SP;Manewr;An_Tm1;2;1;An_Iz1;;An_1ab+ An_1cd- An_Wk1-
+KS;Manewr;An_Tm1;3;An_Iz1;An_Iz5;Max;Max;;False
+SP;Manewr;An_Tm1;3;1;An_Iz1 An_Iz5;;An_1ab+ An_1cd+ An_5- An_Wk2- An_Wk1+
+KS;Manewr;An_Tm2;1;An_Iz1;An_Iz1;Max;Max;;False
+SP;Manewr;An_Tm2;1;1;An_Iz1;;An_Wk1- An_1cd- An_1ab+
+KS;Manewr;An_Tm3;1;An_Iz5;An_Iz1;Max;Max;;False
+SP;Manewr;An_Tm3;1;1;An_Iz5 An_Iz1;;An_Wk2- An_5- An_1cd+ An_1ab+ An_Wk1+
+KS;Manewr;An_Tm4;1;An_It4a;An_Iz1;Max;Max;;False
+SP;Manewr;An_Tm4;1;1;An_Iz5 An_Iz1;;An_5+ An_1cd+ An_1ab+ An_Wk1
+KS;Manewr;An_Tm5;1;An_It4a;An_It4;Max;Max;;False
+SP;Manewr;An_Tm5;1;1;An_Iz6;;An_6+
+KS;Manewr;An_Tm5;2;An_It4a;An_It6;Max;Max;;False
+SP;Manewr;An_Tm5;2;1;An_Iz6 An_Iz7;;An_6- An_7+
+KS;Manewr;An_Tm5;3;An_It4a;An_It8;Max;Max;;False
+SP;Manewr;An_Tm5;3;1;An_Iz6 An_Iz7;;An_6- An_7-
+KS;Manewr;An_Tm8;1;An_It4b;An_It4;Max;Max;;False
+SP;Manewr;An_Tm8;1;1;An_Iz12 ;;An_12+
+KS;Manewr;An_Tm8;2;An_It4b;An_It6;Max;Max;;False
+SP;Manewr;An_Tm8;2;1;An_Iz12 An_Iz13;;An_12- An_13+
+KS;Manewr;An_Tm8;3;An_It4b;An_It8;Max;Max;;False
+SP;Manewr;An_Tm8;3;1;An_Iz12 An_Iz13;;An_12- An_13-

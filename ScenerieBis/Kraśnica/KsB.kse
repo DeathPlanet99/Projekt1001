@@ -1,0 +1,784 @@
+﻿P;0;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;0;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;1;3;Ks_R102;SzR102
+L;1;4;Ks_R101;SzR101
+L;1;5;Ks_R103;SzR103
+L;1;6;Ks_R105;SzR105
+L;1;7;Ks_R107;SzR107
+L;1;8;Ks_R109;SzR109
+P;1;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;1;11;Ks_N204;SzN204
+L;1;12;Ks_N202;SzN202
+L;1;13;Ks_N201;SzN201
+L;1;14;Ks_N203;SzN203
+P;1;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;1;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;3;False;SygnałZastępczy;Ks_R102;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_R102;Brak;Far;Center;SzR102
+P;2;4;False;SygnałZastępczy;Ks_R101;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_R101;Brak;Far;Center;SzR101
+P;2;5;False;SygnałZastępczy;Ks_R103;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_R103;Brak;Far;Center;SzR103
+P;2;6;False;SygnałZastępczy;Ks_R105;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_R105;Brak;Far;Center;SzR105
+P;2;7;False;SygnałZastępczy;Ks_R107;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_R107;Brak;Far;Center;SzR107
+P;2;8;False;SygnałZastępczy;Ks_R109;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_R109;Brak;Far;Center;SzR109
+P;2;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;11;False;SygnałZastępczy;Ks_N204;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_N204;Brak;Far;Center;SzN204
+P;2;12;False;SygnałZastępczy;Ks_N202;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_N202;Brak;Far;Center;SzN202
+P;2;13;False;SygnałZastępczy;Ks_N201;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_N201;Brak;Far;Center;SzN201
+P;2;14;False;SygnałZastępczy;Ks_N203;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_N203;Brak;Far;Center;SzN203
+P;2;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;2;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;3;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_R102;Brak;Far;Center;zr102
+P;3;4;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_R101;Brak;Far;Center;zr101
+P;3;5;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_R103;Brak;Far;Center;zr103
+P;3;6;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_R105;Brak;Far;Center;zr105
+P;3;7;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_R107;Brak;Far;Center;zr107
+P;3;8;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_R109;Brak;Far;Center;zr109
+P;3;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;11;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_N204;Brak;Far;Center;zn204
+P;3;12;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_N202;Brak;Far;Center;zn202
+P;3;13;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_N201;Brak;Far;Center;zn201
+P;3;14;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_N203;Brak;Far;Center;zn203
+P;3;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;3;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;6;False;PrzebiegManewrowy;;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Ks_R103 Ks_R105 Ks_R107 Ks_R109;Brak;Far;Center;zr103ᵐ-|r109ᵐ
+P;4;7;False;PrzebiegManewrowy;;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Ks_Tm101;Brak;Far;Center;ztm101
+P;4;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;12;False;PrzebiegManewrowy;;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Ks_N202 Ks_N204;Brak;Far;Center;zn202,204ᵐ
+P;4;13;False;PrzebiegManewrowy;;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Ks_N201 Ks_N203;Brak;Far;Center;n201,203ᵐ
+P;4;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;4;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;102
+P;5;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;101
+P;5;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;103
+P;5;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;105
+P;5;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;107
+P;5;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;109
+P;5;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;204
+P;5;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;202
+P;5;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;201
+P;5;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Far;203
+P;5;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;5;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;6;3;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt102;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_K102;Brak;Brak;Brak;False;Przeciwwtórność;;K102;PwT102
+T;6;4;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt101;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_K101;Brak;Brak;Brak;False;Przeciwwtórność;;K101;PwT101
+T;6;5;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt103;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_K103;Brak;Brak;Brak;False;Przeciwwtórność;;K103;PwT103
+T;6;6;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt105;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_K105;Brak;Brak;Brak;False;Przeciwwtórność;;K105;PwT105
+T;6;7;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt107;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_K107;Brak;Brak;Brak;False;Przeciwwtórność;;K107;PwT107
+T;6;8;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt109;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_K109;Brak;Brak;Brak;False;Przeciwwtórność;;K109;PwT109
+P;6;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;6;11;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt204;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_J204;Brak;Brak;Brak;False;Przeciwwtórność;;J204;PwT204
+T;6;12;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt202;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_J202;Brak;Brak;Brak;False;Przeciwwtórność;;J202;PwT202
+T;6;13;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt201;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_J201;Brak;Brak;Brak;False;Przeciwwtórność;;J201;PwT201
+T;6;14;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;Ks_Jt203;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;SemaforPosterunkuPrzyległego;MalejącyKilometraż;;;;;Ks_J203;Brak;Brak;Brak;False;Przeciwwtórność;;J203;PwT203
+P;6;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;6;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;7;3;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt102;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT102
+T;7;4;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt101;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT101
+T;7;5;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt103;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT103
+T;7;6;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt105;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT105
+T;7;7;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt107;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT107
+T;7;8;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt109;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT109
+P;7;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;7;11;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt204;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT204
+T;7;12;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt202;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT202
+T;7;13;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt201;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT201
+T;7;14;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt203;;LewyGórny;Żółty;True;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;RezygnacjaDaniaZgody;;;RdzT203
+P;7;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;7;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;8;3;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt102;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT102
+T;8;4;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt101;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT101
+T;8;5;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt103;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT103
+T;8;6;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt105;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT105
+T;8;7;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt107;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT107
+T;8;8;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt109;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT107
+P;8;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;8;11;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt204;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT204
+T;8;12;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt202;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT202
+T;8;13;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt201;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT201
+T;8;14;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_Jt203;;LewyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;DanieZgody;;;DzT203
+P;8;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;8;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;9;3;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt102;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT102;OzT102
+T;9;4;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt101;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT101;OzT101
+T;9;5;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt103;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT103;OzT103
+T;9;6;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt105;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT105;OzT105
+T;9;7;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt107;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT107;OzT107
+T;9;8;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt109;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT109;OzT109
+P;9;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;9;11;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt204;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT204;OzT204
+T;9;12;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt202;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT202;OzT202
+T;9;13;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt201;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT201;OzT201
+T;9;14;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;Ks_Jt203;;PrawyGórny;Żółty;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;ŻądanieOtrzymanieZgody;;ŻzT203;OzT203
+P;9;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;9;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;10;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt102;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt102
+T;10;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt101;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt101
+T;10;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt103;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt103
+T;10;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt105;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt105
+T;10;7;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt107;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt107
+T;10;8;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt109;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt109
+P;10;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;10;11;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt204;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt204
+T;10;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt202;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt202
+T;10;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt201;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt201
+T;10;14;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt203;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt203
+P;10;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;10;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;11;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt102;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;11;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt101;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;11;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt103;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;11;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt105;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;11;7;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt107;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;11;8;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt109;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;11;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;11;11;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt204;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;SpN204
+T;11;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt202;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;SpN202
+T;11;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt201;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;SpN201
+T;11;14;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt203;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;11;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;11;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;12;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt102;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;12;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt101;;;;;;Brak;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;12;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt103;;;;;;PrawyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R103;Brak;Brak;Brak;False;Brak;;;R103m
+T;12;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt105;;;;;;PrawyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R105;Brak;Brak;Brak;False;Brak;;;R105m
+T;12;7;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt107;;;;;;PrawyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R107;Brak;Brak;Brak;False;Brak;;;R107m
+T;12;8;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt109;;;;;;PrawyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R109;Brak;Brak;Brak;False;Brak;;;R109m
+P;12;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;12;11;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt204;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Powtarzacz;RosnącyKilometraż;;;;;Ks_SpN204;Brak;Brak;Brak;False;Brak;;;
+T;12;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt202;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Powtarzacz;RosnącyKilometraż;;;;;Ks_SpN202;Brak;Brak;Brak;False;Brak;;;
+T;12;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt201;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Powtarzacz;RosnącyKilometraż;;;;;Ks_SpN201;Brak;Brak;Brak;False;Brak;;;
+T;12;14;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt203;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;12;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;12;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;13;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt102;;;;;;PrawyGórny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R102;Brak;Brak;Brak;False;Brak;;R102;
+T;13;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt101;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R101;Brak;Brak;Brak;False;Brak;;;R101
+T;13;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt103;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R103;Brak;Brak;Brak;False;Brak;;;R103
+T;13;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt105;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R105;Brak;Brak;Brak;False;Brak;;;R105
+T;13;7;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt107;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R107;Brak;Brak;Brak;False;Brak;;;R107
+T;13;8;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt109;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_R109;Brak;Brak;Brak;False;Brak;;;R109
+P;13;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;13;11;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt204;;;;;;PrawyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_N204;Brak;Brak;Brak;False;Brak;;;N204m
+T;13;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt202;;;;;;PrawyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_N202;Brak;Brak;Brak;False;Brak;;;N202m
+T;13;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt201;;;;;;PrawyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_N201;Brak;Brak;Brak;False;Brak;;;N201m
+T;13;14;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt203;;;;;;PrawyDolny;Biały;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_N203;Brak;Brak;Brak;False;Brak;;;N203m
+P;13;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;13;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;14;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz158;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometrażNiewłaściwa;;;;;Ks_R102;Brak;Brak;Brak;False;Brak;;;
+T;14;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz159_160;Ks_159+ Ks_160cd+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;Ks_R101;Brak;Brak;Brak;False;Brak;;;
+T;14;5;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz156_157;Ks_156- Ks_157cd+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;Ks_R103;Brak;Brak;Brak;False;Brak;;;
+T;14;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz156_157;Ks_156+ Ks_157cd+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;Ks_R105;Brak;Brak;Brak;False;Brak;;;
+T;14;7;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz155;Ks_155+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;Ks_R107;Brak;Brak;Brak;False;Brak;;;
+T;14;8;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz155;Ks_155-;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;Ks_R109;Brak;Brak;Brak;False;Brak;;;
+P;14;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;14;11;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt204;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_N204;Brak;Brak;Brak;False;Brak;;;N204
+T;14;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt202;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_N202;Brak;Brak;Brak;False;Brak;;;N202
+T;14;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt201;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_N201;Brak;Brak;Brak;False;Brak;;;N201
+T;14;14;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt203;;;;;;PrawyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_N203;Brak;Brak;Brak;False;Brak;;;N203
+P;14;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;14;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;15;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz158;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;15;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz159_160;Ks_159+ Ks_160cd+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+S;15;5;False;False;LewoDół;False;True;True;True;False;False;False;Ks_Jz156_157;Ks_156- Ks_157cd+;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+Z;15;6;False;False;Poziomo;GóraPrawo;NieDotyczy;False;False;NaWprost;True;Ks_156;;True;True;True;False;False;Ks_Jz156_157;Ks_157cd+;;;Brak;Brak;False;156
+Z;15;7;False;False;Poziomo;DółPrawo;NieDotyczy;False;False;NaWprost;True;Ks_155;;True;True;True;False;False;Ks_Jz155;;;;Brak;Brak;False;155
+S;15;8;False;False;LewoGóra;False;True;True;True;False;False;False;Ks_Jz155;Ks_155-;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+P;15;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;15;11;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz201;Ks_201cd-;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;Ks_SpN204;;;Ks_N204;Brak;Brak;Brak;False;Brak;;;
+T;15;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz201;Ks_201cd+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;Ks_SpN202;;;Ks_N202;Brak;Brak;Brak;False;Brak;;;
+T;15;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz202;Ks_202cd+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;Ks_SpN201;;;Ks_N201;Brak;Brak;Brak;False;Brak;;;
+T;15;14;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz202;Ks_202cd-;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;RosnącyKilometraż;;;;;Ks_N203;Brak;Brak;Brak;False;Brak;;;
+P;15;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;15;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+Z;16;3;False;False;Poziomo;LewoDół;NieDotyczy;False;False;NaWprost;True;Ks_158;Ks_159;True;True;True;False;False;Ks_Jz158;;;;Brak;Brak;False;158/159
+Z;16;4;False;False;Poziomo;GóraPrawo;NieDotyczy;False;False;NaWprost;False;Ks_159;Ks_158;True;True;True;False;False;Ks_Jz159_160;Ks_160cd+;;;Brak;Brak;False;159
+P;16;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+Z;16;6;False;False;Poziomo;DółPrawo;NieDotyczy;False;False;NaWprost;True;Ks_157cd;;True;True;True;False;False;Ks_Jz156_157;;;;Brak;Brak;False;157cd
+S;16;7;False;False;LewoGóra;False;True;True;True;False;False;False;Ks_Jz155;;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+P;16;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+S;16;11;False;False;LewoDół;False;True;True;True;False;False;False;Ks_Jz201;Ks_201cd-;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+Z;16;12;False;False;Poziomo;GóraPrawo;NieDotyczy;False;False;NaWprost;True;Ks_201cd;;True;True;True;False;False;Ks_Jz201;;;;Brak;Brak;False;201cd
+Z;16;13;False;False;Poziomo;DółPrawo;NieDotyczy;False;False;NaWprost;True;Ks_202cd;;True;True;True;False;False;Ks_Jz202;;;;Brak;Brak;False;202cd
+S;16;14;False;False;LewoGóra;False;True;True;True;False;False;False;Ks_Jz202;Ks_202cd-;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+P;16;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;16;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;17;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz158;Ks_158+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;17;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz159_160;Ks_160cd+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+S;17;5;False;False;DółPrawo;False;True;True;True;False;False;False;Ks_Jz156_157;Ks_157ab-;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+Z;17;6;False;False;Poziomo;LewoGóra;NieDotyczy;False;False;NaWprost;True;Ks_157ab;Ks_160cd;True;True;True;False;False;Ks_Jz156_157;;;;Brak;Brak;False;157ab/160cd
+DR;17;7;False;DoGóry;"KsB"
+P;17;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+Z;17;12;False;True;Poziomo;LewoDół;NieDotyczy;False;False;NaWprost;False;Ks_201ab;Ks_204;True;True;True;False;False;Ks_Jz201;;;;Brak;Brak;False;201ab
+Z;17;13;False;True;Poziomo;LewoGóra;NieDotyczy;False;False;NaWprost;False;Ks_202ab;Ks_203;True;True;True;False;False;Ks_Jz202;;;;Brak;Brak;False;202ab
+P;17;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;17;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;18;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz161;Ks_161+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+Z;18;4;False;False;Poziomo;DółPrawo;NieDotyczy;False;False;NaWprost;False;Ks_160cd;Ks_157ab;True;True;True;False;False;Ks_Jz159_160;;;;Brak;Brak;False;160cd
+S;18;5;False;False;LewoGóra;False;True;True;True;False;False;False;Ks_Jz159_160;Ks_160cd-;;;;;Brak;Czarny;False;Brak;RosnącyKilometraż;;;;;;Brak;Brak;False;Brak;
+Z;18;6;False;False;Poziomo;GóraPrawo;TorPoProstej;False;False;PodSkosem;True;Ks_Wk101;;True;False;True;False;False;Ks_Jz156_157;Ks_157ab+;;;Brak;Brak;False;Wk101
+P;18;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+Z;18;12;False;True;Poziomo;DółPrawo;NieDotyczy;False;False;NaWprost;True;Ks_203;Ks_202ab;True;True;True;False;False;Ks_Jz203;;;;Brak;Brak;False;202ab/203
+Z;18;13;False;True;Poziomo;GóraPrawo;NieDotyczy;False;False;NaWprost;True;Ks_204;Ks_201ab;True;True;True;False;False;Ks_Jz204;;;;Brak;Brak;False;201ab/204
+P;18;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;18;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;19;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;19;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;19;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+Z;19;3;False;False;Poziomo;DółPrawo;NieDotyczy;False;False;NaWprost;True;Ks_161;Ks_160ab;True;True;True;False;False;Ks_Jz161;;;;Brak;Brak;False;160ab/161
+Z;19;4;False;False;Poziomo;LewoGóra;NieDotyczy;False;False;NaWprost;False;Ks_160ab;Ks_161;True;True;True;False;False;Ks_Jz159_160;;;;Brak;Brak;False;160ab
+P;19;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;19;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz156_157;Ks_157ab+;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaManewrowa;MalejącyKilometraż;;;;;Ks_Tm101;Brak;Brak;Brak;False;Brak;;;Tm101
+P;19;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;19;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;19;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;19;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Far;Center;108,465
+T;19;11;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;108465;Brak;Brak;RosnącyKilometraż;False;Brak;;N2/4;
+T;19;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz203;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;ObieStrony;False;Brak;;;
+T;19;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz204;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;ObieStrony;False;Brak;;;
+T;19;14;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;108465;Brak;Brak;MalejącyKilometraż;False;Brak;;;N1/3
+P;19;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;19;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;20;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;20;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Far;Center;245.635
+T;20;2;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;245635;Brak;Brak;RosnącyKilometraż;False;Brak;;N2/4;
+T;20;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_JtT;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;ObieStrony;False;Brak;;;JtT
+T;20;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_JtS;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;ObieStrony;False;Brak;;;JtS
+T;20;5;False;Poziomo;False;True;True;Prosta;False;False;False;False;245635;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;245635;Brak;Brak;MalejącyKilometraż;False;Brak;;;N1/3
+T;20;6;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jt105b;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;Jt105b
+P;20;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;20;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;20;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;20;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;20;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;20;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz203;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaManewrowa;MalejącyKilometraż;;;;;Ks_Tm202;Brak;Brak;Brak;False;Brak;;;Tm202
+T;20;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_Jz204;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaManewrowa;MalejącyKilometraż;;;;;Ks_Tm201;Brak;Brak;Brak;False;Brak;;;Tm201
+T;20;14;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;108465;Brak;Brak;Brak;True;Brak;;URg;
+P;20;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;20;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;21;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_JtT;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;MalejącyKilometraż;Ks_ToT;;;;Ks_T;Brak;Brak;Brak;False;Brak;;;
+T;21;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_JtS;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;MalejącyKilometrażNiewłaściwa;Ks_ToS;;;;Ks_S;Brak;Brak;Brak;False;Brak;;;
+T;21;5;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;245635;Brak;Brak;Brak;True;Brak;;URg;
+K;21;6;False;False;ZLewej;Prosto;True;;;Brak;Czarny;False;;Brak;Brak;Brak
+P;21;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;21;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_JtP;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;MalejącyKilometraż;Ks_ToP;Ks_ISpP;Ks_IISpP;;Ks_P;Brak;Brak;Brak;False;Brak;;;JtP
+T;21;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;Ks_JtO;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Semafor;MalejącyKilometrażNiewłaściwa;Ks_ToO;Ks_ISpO;Ks_IISpO;;Ks_O;Brak;Brak;Brak;False;Brak;;JtO;
+P;21;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;21;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;22;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;it2P;;;;;;LewyGórny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_T;Brak;Brak;Brak;False;Brak;;T;it2P
+T;22;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;it1P;;;;;;LewyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_S;Brak;Brak;Brak;False;Brak;;it1P;S
+P;22;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;9;False;PrzebiegManewrowy;;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Ks_Tm201 ;Brak;Far;Center;ztm201
+P;22;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;22;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;it2S;;;;;;LewyGórny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_P;Brak;Brak;Brak;False;Brak;;P;it2S
+T;22;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;it1S;;;;;;LewyDolny;Zielony;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Ks_O;Brak;Brak;Brak;False;Brak;;it1S;O
+P;22;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;22;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;23;3;False;Poziomo;True;True;True;Prosta;False;False;False;False;it2P;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaOstrzegawcza;MalejącyKilometraż;;;;;Ks_ToT;Brak;Brak;Brak;False;Brak;;;ToT
+T;23;4;False;Poziomo;True;True;True;Prosta;False;False;False;False;it1P;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaOstrzegawcza;MalejącyKilometrażNiewłaściwa;;;;;Ks_ToS;Brak;Brak;Brak;False;Brak;;ToS;
+P;23;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;9;False;PrzebiegManewrowy;;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Ks_Tm202 ;Brak;Far;Center;ztm202
+P;23;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;23;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;it2S;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Powtarzacz;MalejącyKilometraż;;;;;Ks_ISpP;Brak;Brak;Brak;False;Brak;;;ISpP
+T;23;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;it1S;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Powtarzacz;MalejącyKilometrażNiewłaściwa;;;;;Ks_ISpO;Brak;Brak;Brak;False;Brak;;ISpO;
+P;23;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;23;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;24;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;24;1;NO2P;NO2P
+P;24;2;False;NiewłaściwyOdjazd;NO1P;LewyGórny;Czerwony;False;PrawyGórny;StrzałkaWPrawo;Brak;Ks_JtT;Brak;Far;Center;NO2P
+T;24;3;False;Poziomo;True;True;False;Prosta;False;False;False;False;Pg_it2;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;2P;
+T;24;4;False;Poziomo;True;True;False;Prosta;False;False;False;False;Pg_it1;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;1P;
+P;24;5;False;NiewłaściwyPrzyjazd;NP1P;LewyGórny;Czerwony;False;PrawyGórny;StrzałkaWLewo;Brak;it1P Ks_JtS;Brak;Far;Center;NP1P
+L;24;6;NP1P;NP1P
+P;24;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;24;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;24;9;False;Poziomo;False;True;False;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_JtO;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;SL:1;Brak;Brak;Brak;False;Brak;;;
+P;24;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;24;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+T;24;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;it2S;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Powtarzacz;MalejącyKilometraż;;;;;Ks_IISpP;Brak;Brak;Brak;False;Brak;;;IISpP
+T;24;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;it1S;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Powtarzacz;MalejącyKilometrażNiewłaściwa;;;;;Ks_IISpO;Brak;Brak;Brak;False;Brak;;IISpO;
+P;24;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;24;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;24;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;25;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;25;1;dPo2P;dPo2P
+P;25;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;{Pg:1}
+T;25;3;False;Poziomo;True;True;False;Prosta;False;False;False;False;Pg_it2;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+T;25;4;False;Poziomo;True;True;False;Prosta;False;False;False;False;Pg_it1;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;;
+P;25;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;{Pg:2}
+L;25;6;dPo1P;dPo1P
+P;25;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;25;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;25;9;False;WłączenieBlokady;;Brak;Czerwony;False;Brak;Okrągła;Brak;SL:1;Brak;Far;Center;
+L;25;10;NO1S;NO1S
+P;25;11;False;NiewłaściwyOdjazd;NO1S;LewyGórny;Czerwony;False;PrawyGórny;StrzałkaWPrawo;Brak;Ks_JtP;Brak;Far;Center;NO2S
+T;25;12;False;Poziomo;True;True;True;Prosta;False;False;False;False;it2S;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaOstrzegawcza;MalejącyKilometraż;;;;;Ks_ToP;Brak;Brak;Brak;False;Brak;;;ToP
+T;25;13;False;Poziomo;True;True;True;Prosta;False;False;False;False;it1S;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;TarczaOstrzegawcza;MalejącyKilometrażNiewłaściwa;;;;;Ks_ToO;Brak;Brak;Brak;False;Brak;;ToO;
+P;25;14;False;NiewłaściwyPrzyjazd;NP1S;LewyGórny;Czerwony;False;PrawyGórny;StrzałkaWLewo;Brak;it1S Ks_JtO;Brak;Far;Center;NP1S
+L;25;15;NP1S;NP1S
+P;25;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;26;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;26;1;True;DoraźnyPoczątkowy;dPo2P;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Pg:1;Brak;Far;Center;dPo2P
+P;26;2;True;WłączenieBlokady;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;Pg:1;Brak;Far;Center;Wbl2P
+T;26;3;False;Poziomo;False;True;True;StrzałkaRosnącyKilometraż;False;False;False;False;;;;;Ks_JtT;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Pg:1;Brak;Brak;Brak;False;Odjazd;;;odjazd
+T;26;4;False;Poziomo;False;True;True;StrzałkaRosnącyKilometraż;False;False;False;False;;;;;Ks_JtS;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Pg:2;Brak;Brak;Brak;False;Odjazd;;;odjazd
+P;26;5;True;WłączenieBlokady;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;Pg:2;Brak;Far;Center;Wbl1P
+P;26;6;True;DoraźnyPoczątkowy;dPo1P;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Pg:2;Brak;Far;Center;dPo1P
+P;26;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;26;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;26;9;False;DoraźnyPoczątkowy;dPo2S;Brak;Czarny;False;Brak;Okrągła;Brak;SL:1;Brak;Far;Center;
+L;26;10;dPo2S;dPo2S
+P;26;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;{SL:1}
+T;26;12;False;Poziomo;True;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;2S;
+T;26;13;False;Poziomo;True;True;False;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;;Brak;Brak;Brak;False;Brak;;1S;
+P;26;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;{SL:2}
+L;26;15;dPo1S;dPo1S
+P;26;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;27;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;27;1;True;DoraźnyKońcowy;dKoT;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Pg:1;Brak;Far;Center;dKoT
+P;27;2;True;ZwolnienieBlokady;;PrawyGórny;Czerwony;False;LewyGórny;Okrągła;Brak;Pg:1;Brak;Far;Center;KoT
+T;27;3;False;Poziomo;False;True;True;StrzałkaMalejącyKilometraż;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Pg:1;Brak;Brak;Brak;False;Przyjazd;;;przyjazd
+T;27;4;False;Poziomo;False;True;True;StrzałkaMalejącyKilometraż;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Pg:2;Brak;Brak;Brak;False;Przyjazd;;;przyjazd
+P;27;5;True;ZwolnienieBlokady;;PrawyGórny;Czerwony;False;LewyGórny;Okrągła;Brak;Pg:2;Brak;Far;Center;KoS
+P;27;6;True;DoraźnyKońcowy;dKoS;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;Pg:2;Brak;Far;Center;dKoS
+P;27;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;27;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;27;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;27;10;True;DoraźnyPoczątkowy;dPo2S;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;SL:1;Brak;Far;Center;dPo2S
+P;27;11;True;WłączenieBlokady;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;SL:1;Brak;Far;Center;Wbl2S
+T;27;12;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_JtP;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;SL:1;Brak;Brak;Brak;False;Odjazd;;;odjazd
+T;27;13;False;Poziomo;False;True;True;StrzałkaBezToruRosnącyKilometraż;False;False;False;False;;;;;Ks_JtO;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;SL:2;Brak;Brak;Brak;False;Odjazd;;;odjazd
+P;27;14;True;WłączenieBlokady;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;SL:2;Brak;Far;Center;Wbl1S
+P;27;15;True;DoraźnyPoczątkowy;dPo1S;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;SL:2;Brak;Far;Center;dPo1S
+P;27;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;28;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;28;1;dKoT;dKoT
+P;28;2;True;Pozwolenie;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;Pg:1;Brak;Far;Center;Poz2P
+T;28;3;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Pg:1;Brak;Brak;Brak;False;Pozwolenie;;Pwl2P;
+T;28;4;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;Pg:2;Brak;Brak;Brak;False;Pozwolenie;;Pwl1P;
+P;28;5;True;Pozwolenie;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;Pg:2;Brak;Far;Center;Poz1P
+L;28;6;dKoS;dKoS
+P;28;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;28;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;28;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;28;10;True;DoraźnyKońcowy;dKoP;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;SL:1;Brak;Far;Center;dKoP
+P;28;11;True;ZwolnienieBlokady;;PrawyGórny;Czerwony;False;LewyGórny;Okrągła;Brak;SL:1;Brak;Far;Center;KoP
+T;28;12;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;SL:1;Brak;Brak;Brak;False;Przyjazd;;;przyjazd
+T;28;13;False;Poziomo;False;True;True;StrzałkaBezToruMalejącyKilometraż;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;SL:2;Brak;Brak;Brak;False;Przyjazd;;;przyjazd
+P;28;14;True;ZwolnienieBlokady;;PrawyGórny;Czerwony;False;LewyGórny;Okrągła;Brak;SL:2;Brak;Far;Center;KoO
+P;28;15;True;DoraźnyKońcowy;dKoO;PrawyGórny;Czarny;False;LewyGórny;Okrągła;Brak;SL:2;Brak;Far;Center;dKoO
+P;28;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;29;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;29;10;dKoP;dKoP
+P;29;11;True;Pozwolenie;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;SL:1;Brak;Far;Center;Poz2S
+T;29;12;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;SL:1;Brak;Brak;Brak;False;Pozwolenie;;Pwl2S;
+T;29;13;False;Poziomo;False;True;True;Prosta;False;False;False;False;;;;;;;Brak;Czarny;False;Brak;Okrągła;Brak;StrzałkaWPrawo;Brak;RosnącyKilometraż;;;;;SL:2;Brak;Brak;Brak;False;Pozwolenie;;Pwl1S;
+P;29;14;True;Pozwolenie;;PrawyGórny;Czerwony;False;Brak;Okrągła;Brak;SL:2;Brak;Far;Center;Poz1S
+L;29;15;dKoO;dKoO
+P;29;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+PK;30;2
+P;30;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;30;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;31;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;32;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;32;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;32;5;False;DzwonekSygnalizacjiRozprucia;;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;DzKr
+P;32;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;32;7;Ks_O;SzO
+P;32;8;False;SygnałZastępczy;Ks_O;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_O;Brak;Far;Center;SzO
+P;32;9;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_O;Brak;Far;Center;zo
+P;32;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;32;11;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_155;Brak;Far;Center;Kr155
+P;32;12;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz155;Brak;Far;Center;pJz155
+P;32;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;32;14;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_201cd;Brak;Far;Center;Kr201cd
+P;32;15;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz201;Brak;Far;Center;pJz201cd
+P;32;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;33;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;33;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;33;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;33;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;33;7;Ks_P;SzP
+P;33;8;False;SygnałZastępczy;Ks_SzP;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_SzP;Brak;Far;Center;SzP
+P;33;9;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_P;Brak;Far;Center;zp
+P;33;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;33;11;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_156;Brak;Far;Center;Kr156
+P;33;12;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz156_157;Brak;Far;Center;pJz156
+P;33;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;33;14;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_201ab Ks_204;Brak;Far;Center;Kr201ab/|204
+P;33;15;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz201 Ks_Jz204;Brak;Far;Center;pJz201ab/|204
+P;33;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;11;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_157ab Ks_160cd;Brak;Far;Center;Kr157ab/|160cd
+P;34;12;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz156_157 Ks_Jz159_160;Brak;Far;Center;pJz157ab/|160cd
+P;34;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;34;14;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_202ab Ks_203;Brak;Far;Center;Kr202ab/|203
+P;34;15;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz202 Ks_Jz203;Brak;Far;Center;pJz202ab/|203
+P;34;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;35;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;35;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;35;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;35;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;35;7;Ks_S;SzS
+P;35;8;False;SygnałZastępczy;Ks_S;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_S;Brak;Far;Center;SzS
+P;35;9;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_S;Brak;Far;Center;zs
+P;35;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;35;11;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_157cd;Brak;Far;Center;Kr157cd
+P;35;12;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz156_157;Brak;Far;Center;pJz157cd
+P;35;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;35;14;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_202cd;Brak;Far;Center;Kr202cd
+P;35;15;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz202;Brak;Far;Center;pJz202cd
+P;35;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;36;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;36;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;36;5;False;WyłącznikNapięciaNastawczego;;PrawyGórny;Czarny;False;Brak;Okrągła;LewyGórny;;Brak;Center;Center;oN
+P;36;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+L;36;7;SzT;SzT
+P;36;8;False;SygnałZastępczy;SzT;PrawyGórny;Czarny;False;Brak;Okrągła;Brak;Ks_T;Brak;Far;Center;SzT
+P;36;9;False;PrzebiegPociągowy;;PrawyGórny;Czarny;True;LewyGórny;Okrągła;Brak;Ks_T;Brak;Far;Center;zt
+P;36;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;36;11;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_158 Ks_159;Brak;Far;Center;Kr158/159
+P;36;12;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz158 Ks_Jz159_160;Brak;Far;Center;pJz158/|159
+P;36;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;36;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;36;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;36;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;11;False;KasowanieRozprucia;;PrawyGórny;Czarny;True;Brak;Okrągła;LewyGórny;Ks_160ab Ks_161;Brak;Far;Center;Kr160ab/|161
+P;37;12;False;PomijanieZajętości;;PrawyGórny;Czarny;True;Brak;Okrągła;Brak;Ks_Jz159_160 Ks_Jz161;Brak;Far;Center;pJz160ab/|161
+P;37;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;37;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;38;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;0;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;1;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;2;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;3;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;4;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;5;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;6;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;7;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;8;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;9;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;10;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;11;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;12;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;13;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;14;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;15;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+P;39;16;False;Brak;;Brak;Czarny;False;Brak;Okrągła;Brak;;Brak;Center;Center;
+KS;Pociąg;Ks_N201;1;Ks_Jt201;Ks_JtO;Max;Max;;False
+SP;Pociąg;Ks_N201;1;1;Ks_Jz202 Ks_Jz204 ;108465;Ks_202cd Ks_202ab Ks_204 
+KS;Pociąg;Ks_N201;2;Ks_Jt201;Ks_JtP;p40;Max;;False
+SP;Pociąg;Ks_N201;2;1;Ks_Jz202 Ks_Jz203 ;108465;Ks_202cd Ks_202ab- Ks_203- Ks_201ab
+KS;Pociąg;Ks_N202;1;Ks_Jt202;Ks_JtP;Max;Max;;False
+SP;Pociąg;Ks_N202;1;1;Ks_Jz201 Ks_Jz203;108465;Ks_201cd Ks_201ab Ks_203
+KS;Pociąg;Ks_N202;2;Ks_Jt202;Ks_JtO;p40;Max;;False
+SP;Pociąg;Ks_N202;2;1;Ks_Jz201 Ks_Jz204 ;108465;Ks_201cd Ks_201ab- Ks_204- Ks_202ab
+KS;Pociąg;Ks_N203;1;Ks_Jt203;Ks_JtO;p40;Max;;False
+SP;Pociąg;Ks_N203;1;1;Ks_Jz202 Ks_Jz204 ;108465;Ks_202cd- Ks_202ab Ks_204 
+KS;Pociąg;Ks_N203;2;Ks_Jt203;Ks_JtP;p40;Max;;False
+SP;Pociąg;Ks_N203;2;1;Ks_Jz202 Ks_Jz203;108465;Ks_202cd- Ks_202ab- Ks_203- Ks_201ab
+KS;Pociąg;Ks_N204;1;Ks_Jt204;Ks_JtP;p40;Max;;False
+SP;Pociąg;Ks_N204;1;1;Ks_Jz201 Ks_Jz203 ;108465;Ks_201cd- Ks_201ab Ks_203
+KS;Pociąg;Ks_N204;2;Ks_Jt204;Ks_JtO;p40;Max;;False
+SP;Pociąg;Ks_N204;2;1;Ks_Jz201 Ks_Jz204 ;108465;Ks_201cd- Ks_201ab- Ks_204- Ks_202ab
+KS;Pociąg;Ks_O;1;it1S;Ks_Jt201;Max;Max;Ks_J201;False
+SP;Pociąg;Ks_O;1;1;Ks_JtO Ks_Jz204 Ks_Jz202;108465;Ks_204 Ks_202ab Ks_202cd
+KS;Pociąg;Ks_O;2;it1S;Ks_Jt203;p40;Max;Ks_J203;False
+SP;Pociąg;Ks_O;2;1;Ks_JtO Ks_Jz204 Ks_Jz202;108465;Ks_204 Ks_202ab Ks_202cd-
+KS;Pociąg;Ks_O;3;it1S;Ks_Jt202;p40;Max;Ks_J202;False
+SP;Pociąg;Ks_O;3;1;Ks_JtO Ks_Jz204 Ks_Jz201;108465;Ks_204- Ks_201ab- Ks_201cd Ks_202ab
+KS;Pociąg;Ks_O;4;it1S;Ks_Jt204;p40;Max;Ks_J204;False
+SP;Pociąg;Ks_O;4;1;Ks_JtO Ks_Jz204 Ks_Jz201;108465;Ks_204- Ks_201ab- Ks_201cd- Ks_202ab
+KS;Pociąg;Ks_P;1;it2S;Ks_Jt202;Max;Max;Ks_J202;False
+SP;Pociąg;Ks_P;1;1;Ks_JtP Ks_Jz203 Ks_Jz201;108465;Ks_203 Ks_201ab Ks_201cd
+KS;Pociąg;Ks_P;2;it2S;Ks_Jt204;p40;Max;Ks_J204;False
+SP;Pociąg;Ks_P;2;1;Ks_JtP Ks_Jz203 Ks_Jz201;108465;Ks_203 Ks_201ab Ks_201cd-
+KS;Pociąg;Ks_P;3;it2S;Ks_Jt201;p40;Max;Ks_J201;False
+SP;Pociąg;Ks_P;3;1;Ks_JtP Ks_Jz203 Ks_Jz202;108465;Ks_203- Ks_202ab- Ks_202cd Ks_201ab
+KS;Pociąg;Ks_P;4;it2S;Ks_Jt203;p40;Max;Ks_J203;False
+SP;Pociąg;Ks_P;4;1;Ks_JtP  Ks_Jz203 Ks_Jz202;108465;Ks_203- Ks_202ab- Ks_202cd- Ks_201ab
+KS;Pociąg;Ks_R101;1;Ks_Jt101;Ks_JtS;Max;Max;;False
+SP;Pociąg;Ks_R101;1;1;Ks_Jz159_160  ;245635;Ks_159 Ks_160cd Ks_160ab Ks_157ab
+KS;Pociąg;Ks_R101;2;Ks_Jt101;Ks_JtT;p40;Max;;False
+SP;Pociąg;Ks_R101;2;1;Ks_Jz159_160  Ks_Jz161;245635;Ks_159 Ks_160cd Ks_160ab- Ks_161- Ks_157ab
+KS;Pociąg;Ks_R102;1;Ks_Jt102;Ks_JtS;p40;Max;;False
+SP;Pociąg;Ks_R102;1;1;Ks_Jz158 Ks_Jz159_160 ;245635;Ks_158- Ks_159- Ks_160cd Ks_160ab Ks_157ab
+KS;Pociąg;Ks_R102;2;Ks_Jt102;Ks_JtT;Max;Max;;False
+SP;Pociąg;Ks_R102;2;1;Ks_Jz158 Ks_Jz161;245635;Ks_158 Ks_161
+KS;Pociąg;Ks_R103;1;Ks_Jt103;Ks_JtS;p40;Max;;False
+SP;Pociąg;Ks_R103;1;1;Ks_Jz156_157  Ks_Jz159_160;245635;Ks_156- Ks_157cd Ks_157ab- Ks_160cd- Ks_160ab Ks_Wk101
+KS;Pociąg;Ks_R103;2;Ks_Jt103;Ks_JtT;p40;Max;;False
+SP;Pociąg;Ks_R103;2;1;Ks_Jz156_157  Ks_Jz159_160 Ks_Jz161;245635;Ks_156- Ks_157cd Ks_157ab- Ks_160cd- Ks_160ab- Ks_161- Ks_Wk101
+KS;Pociąg;Ks_R105;1;Ks_Jt105;Ks_JtS;p40;Max;;False
+SP;Pociąg;Ks_R105;1;1;Ks_Jz156_157  Ks_Jz159_160;245635;Ks_156 Ks_157cd Ks_157ab- Ks_160cd- Ks_160ab Ks_Wk101
+KS;Pociąg;Ks_R105;2;Ks_Jt105;Ks_JtT;p40;Max;;False
+SP;Pociąg;Ks_R105;2;1;Ks_Jz156_157  Ks_Jz159_160 Ks_Jz161;245635;Ks_156 Ks_157cd Ks_157ab- Ks_160cd- Ks_160ab- Ks_161- Ks_Wk101
+KS;Pociąg;Ks_R107;1;Ks_Jt107;Ks_JtS;p40;Max;;False
+SP;Pociąg;Ks_R107;1;1;Ks_Jz155  Ks_Jz156_157 Ks_Jz159_160;245635;Ks_155 Ks_157cd- Ks_157ab- Ks_160cd- Ks_160ab Ks_Wk101
+KS;Pociąg;Ks_R107;2;Ks_Jt107;Ks_JtT;p40;Max;;False
+SP;Pociąg;Ks_R107;2;1;Ks_Jz155  Ks_Jz156_157 Ks_Jz159_160 Ks_Jz161;245635;Ks_155 Ks_157cd- Ks_157ab- Ks_160cd- Ks_160ab- Ks_161- Ks_Wk101
+KS;Pociąg;Ks_R109;1;Ks_Jt109;Ks_JtS;p40;Max;;False
+SP;Pociąg;Ks_R109;1;1;Ks_Jz155  Ks_Jz156_157 Ks_Jz159_160;245635;Ks_155- Ks_157cd- Ks_157ab- Ks_160cd- Ks_160ab Ks_Wk101
+KS;Pociąg;Ks_R109;2;Ks_Jt109;Ks_JtT;p40;Max;;False
+SP;Pociąg;Ks_R109;2;1;Ks_Jz155  Ks_Jz156_157 Ks_Jz159_160 Ks_Jz161;245635;Ks_155- Ks_157cd- Ks_157ab- Ks_160cd- Ks_160ab- Ks_161- Ks_Wk101
+KS;Pociąg;Ks_S;1;it1P;Ks_Jt102;p40;Max;Ks_K102;False
+SP;Pociąg;Ks_S;1;1;Ks_JtS Ks_Jz159_160 Ks_Jz158;245635;Ks_160ab Ks_160cd Ks_159- Ks_158- Ks_157ab
+KS;Pociąg;Ks_S;2;it1P;Ks_Jt101;Max;Max;Ks_K101;False
+SP;Pociąg;Ks_S;2;1;Ks_JtS Ks_Jz159_160;245635;Ks_160ab Ks_160cd Ks_159 Ks_157ab
+KS;Pociąg;Ks_S;3;it1P;Ks_Jt103;p40;Max;Ks_K103;False
+SP;Pociąg;Ks_S;3;1;Ks_JtS Ks_Jz159_160 Ks_Jz156_157;245635;Ks_160ab Ks_160cd- Ks_157ab- Ks_157cd Ks_156- Ks_Wk101
+KS;Pociąg;Ks_S;4;it1P;Ks_Jt105;p40;Max;Ks_K105;False
+SP;Pociąg;Ks_S;4;1;Ks_JtS Ks_Jz159_160 Ks_Jz156_157;245635;Ks_160ab Ks_160cd- Ks_157ab- Ks_157cd Ks_156 Ks_Wk101
+KS;Pociąg;Ks_S;5;it1P;Ks_Jt107;p40;Max;Ks_K107;False
+SP;Pociąg;Ks_S;5;1;Ks_JtS Ks_Jz159_160 Ks_Jz156_157 Ks_Jz155 ;245635;Ks_160ab Ks_160cd- Ks_157ab- Ks_157cd- Ks_155 Ks_Wk101
+KS;Pociąg;Ks_S;6;it1P;Ks_Jt109;p40;Max;Ks_K109;False
+SP;Pociąg;Ks_S;6;1;Ks_JtS Ks_Jz159_160 Ks_Jz156_157 Ks_Jz155;245635;Ks_160ab Ks_160cd- Ks_157ab- Ks_157cd- Ks_155- Ks_Wk101
+KS;Pociąg;Ks_T;1;it2P;Ks_Jt102;Max;Max;Ks_K102;False
+SP;Pociąg;Ks_T;1;1;Ks_JtT Ks_Jz161 Ks_Jz158;245635;Ks_160ab Ks_158
+KS;Pociąg;Ks_T;2;it2P;Ks_Jt101;p40;Max;Ks_K101;False
+SP;Pociąg;Ks_T;2;1;Ks_JtT Ks_Jz161 Ks_Jz159_160;245635;Ks_161- Ks_160ab- Ks_160cd Ks_159 Ks_157ab
+KS;Pociąg;Ks_T;3;it2P;Ks_Jt103;p40;Max;Ks_K103;False
+SP;Pociąg;Ks_T;3;1;Ks_JtT Ks_Jz161 Ks_Jz159_160 Ks_Jz156_157;245635;Ks_161- Ks_160ab- Ks_160cd- Ks_157ab- Ks_157cd Ks_156- Ks_Wk101
+KS;Pociąg;Ks_T;4;it2P;Ks_Jt105;p40;Max;Ks_K105;False
+SP;Pociąg;Ks_T;4;1;Ks_JtT Ks_Jz161 Ks_Jz159_160 Ks_Jz156_157;245635;Ks_161- Ks_160ab- Ks_160cd- Ks_157ab- Ks_157cd Ks_156 Ks_Wk101
+KS;Pociąg;Ks_T;5;it2P;Ks_Jt107;p40;Max;Ks_K107;False
+SP;Pociąg;Ks_T;5;1;Ks_JtT Ks_Jz161 Ks_Jz159_160 Ks_Jz156_157 Ks_Jz155;245635;Ks_161- Ks_160ab- Ks_160cd- Ks_157ab- Ks_157cd- Ks_155 Ks_Wk101
+KS;Pociąg;Ks_T;6;it2P;Ks_Jt109;p40;Max;Ks_K109;False
+SP;Pociąg;Ks_T;6;1;Ks_JtT Ks_Jz161 Ks_Jz159_160 Ks_Jz156_157 Ks_Jz155;245635;Ks_161- Ks_160ab- Ks_160cd- Ks_157ab- Ks_157cd- Ks_155- Ks_Wk101
+KS;Manewr;Ks_N201;1;Ks_Jt201;Ks_JtO;Max;Max;;False
+SP;Manewr;Ks_N201;1;1;Ks_Jz202 Ks_Jz204 ;;Ks_202cd Ks_202ab Ks_204
+KS;Manewr;Ks_N201;2;Ks_Jt201;Ks_JtP;Max;Max;;False
+SP;Manewr;Ks_N201;2;1;Ks_Jz202 Ks_Jz203;;Ks_202cd Ks_202ab- Ks_203- Ks_201ab
+KS;Manewr;Ks_N202;1;Ks_Jt202;Ks_JtP;Max;Max;;False
+SP;Manewr;Ks_N202;1;1;Ks_Jz201 Ks_Jz203 Ks_JtP;;Ks_201cd Ks_201ab Ks_203
+KS;Manewr;Ks_N202;2;Ks_Jt202;Ks_JtO;Max;Max;;False
+SP;Manewr;Ks_N202;2;1;Ks_Jz201 Ks_Jz204 ;;Ks_201cd Ks_201ab- Ks_204- Ks_202ab
+KS;Manewr;Ks_N203;1;Ks_Jt203;Ks_JtO;Max;Max;;False
+SP;Manewr;Ks_N203;1;1;Ks_Jz202 Ks_Jz204 Ks_JtO;;Ks_202cd- Ks_202ab Ks_204
+KS;Manewr;Ks_N203;2;Ks_Jt203;Ks_JtP;Max;Max;;False
+SP;Manewr;Ks_N203;2;1;Ks_Jz202 Ks_Jz203 Ks_JtP;;Ks_202cd- Ks_202ab- Ks_203- Ks_201ab
+KS;Manewr;Ks_N204;1;Ks_Jt204;Ks_JtP;Max;Max;;False
+SP;Manewr;Ks_N204;1;1;Ks_Jz201 Ks_Jz203 Ks_JtP;;Ks_201cd- Ks_201ab Ks_203
+KS;Manewr;Ks_N204;2;Ks_Jt204;Ks_JtO;Max;Max;;False
+SP;Manewr;Ks_N204;2;1;Ks_Jz201 Ks_Jz204 Ks_JtO;;Ks_201cd- Ks_201ab- Ks_204- Ks_202ab
+KS;Manewr;Ks_R103;1;Ks_Jt103;Ks_Jt105b;Max;Max;;False
+SP;Manewr;Ks_R103;1;1;Ks_Jz156_157 ;;Ks_156- Ks_157cd Ks_157ab Ks_Wk101-
+KS;Manewr;Ks_R105;1;Ks_Jt105;Ks_Jt105b;Max;Max;;False
+SP;Manewr;Ks_R105;1;1;Ks_Jz156_157 ;;Ks_156 Ks_157cd Ks_157ab Ks_Wk101-
+KS;Manewr;Ks_R107;1;Ks_Jt107;Ks_Jt105b;Max;Max;;False
+SP;Manewr;Ks_R107;1;1;Ks_Jz155 Ks_Jz156_157;;Ks_155 Ks_157cd- Ks_157ab Ks_Wk101-
+KS;Manewr;Ks_R109;1;Ks_Jt109;Ks_Jt105b;Max;Max;;False
+SP;Manewr;Ks_R109;1;1;Ks_Jz155 Ks_Jz156_157;;Ks_155- Ks_157cd- Ks_157ab Ks_Wk101-
+KS;Manewr;Ks_Tm101;1;Ks_Jt105b;Ks_Jt103;Max;Max;;False
+SP;Manewr;Ks_Tm101;1;1; Ks_Jz156_157;;Ks_Wk101- Ks_157ab Ks_157cd Ks_156-
+KS;Manewr;Ks_Tm101;2;Ks_Jt105b;Ks_Jt105;Max;Max;;False
+SP;Manewr;Ks_Tm101;2;1; Ks_Jz156_157;;Ks_Wk101- Ks_157ab Ks_157cd Ks_156
+KS;Manewr;Ks_Tm101;3;Ks_Jt105b;Ks_Jt107;Max;Max;;False
+SP;Manewr;Ks_Tm101;3;1; Ks_Jz155 Ks_Jz156_157;;Ks_Wk101- Ks_157ab Ks_157cd- Ks_155
+KS;Manewr;Ks_Tm101;4;Ks_Jt105b;Ks_Jt109;Max;Max;;False
+SP;Manewr;Ks_Tm101;4;1; Ks_Jz155 Ks_Jz156_157;;Ks_Wk101- Ks_157ab Ks_157cd- Ks_155-
+KS;Manewr;Ks_Tm201;1;Ks_JtSzO1;Ks_Jt204;Max;Max;;False
+SP;Manewr;Ks_Tm201;1;1;Ks_Jz204 Ks_Jz201;;Ks_204- Ks_201ab- Ks_201cd-
+KS;Manewr;Ks_Tm201;2;Ks_JtSzO1;Ks_Jt202;Max;Max;;False
+SP;Manewr;Ks_Tm201;2;1;Ks_Jz204 Ks_Jz201;;Ks_204- Ks_201ab- Ks_201cd
+KS;Manewr;Ks_Tm201;3;Ks_JtSzO1;Ks_Jt201;Max;Max;;False
+SP;Manewr;Ks_Tm201;3;1;Ks_Jz204 Ks_Jz202;;Ks_204 Ks_202ab Ks_202cd Ks_201ab
+KS;Manewr;Ks_Tm201;4;Ks_JtSzO1;Ks_Jt203;Max;Max;;False
+SP;Manewr;Ks_Tm201;4;1;Ks_Jz204 Ks_Jz202;;Ks_204 Ks_202ab Ks_202cd- Ks_201ab
+KS;Manewr;Ks_Tm202;1;Ks_JtP;Ks_Jt202;Max;Max;;False
+SP;Manewr;Ks_Tm202;1;1; Ks_Jz203 Ks_Jz201;;Ks_203 Ks_201ab Ks_201cd
+KS;Manewr;Ks_Tm202;2;Ks_JtP;Ks_Jt204;Max;Max;;False
+SP;Manewr;Ks_Tm202;2;1; Ks_Jz203 Ks_Jz201;;Ks_203 Ks_201ab Ks_201cd-
+KS;Manewr;Ks_Tm202;3;Ks_JtP;Ks_Jt201;Max;Max;;False
+SP;Manewr;Ks_Tm202;3;1; Ks_Jz203 Ks_Jz202;;Ks_203- Ks_202ab- Ks_202cd Ks_202ab
+KS;Manewr;Ks_Tm202;4;Ks_JtP;Ks_Jt203;Max;Max;;False
+SP;Manewr;Ks_Tm202;4;1;Ks_Jz203 Ks_Jz202;;Ks_203- Ks_202ab- Ks_202cd- Ks_202ab
+SR;1;Podwójne;245635;245,635
+SR;2;Podwójne;108465;108,465
