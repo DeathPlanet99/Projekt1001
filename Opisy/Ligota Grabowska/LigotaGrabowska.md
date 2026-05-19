@@ -11,8 +11,11 @@ Na scenerii znajdują się 2 szlaki zewnętrzne - dwutor i jednotor, dwa równol
 ## **POSTERUNKI:**
 
 -Ligota Grabowska [LG] – Stacja węzłowa czołowa
+
 -Ligota Trzeszcze [LT] – Stacja węzłowa pośrednia, 2 perony, trzy krawędzie peronowe, postój dla osobowych
+
 -Ligota Stadion – przystanek osobowy, jeden jednokrawędziowy peron
+
 -Czystobór – ładownia i przystanek osobowy, jeden jednokrawędziowy peron, tylko EZT.
 
 ## **SZLAKI:**
@@ -42,14 +45,24 @@ Na scenerii znajdują się 2 szlaki zewnętrzne - dwutor i jednotor, dwa równol
 ### **Autorzy:**
 
 **MaciejakS - układ torowy, sygnalizacja, otoczenie, sieć trakcyjna**
+
 **DeathPlanet99 - otoczenie**
+
 **Rybson - SPK, sieć trakcyjna**
+
 **Leon78053 - SPK, sieć trakcyjna**
+
 **JoloPL - sieć trakcyjna**
+
 **Zawodowiec - hektometryzacja**
+
 **Kierownik\_z\_ulicy - RASP**
+
+
 Oraz inni poprawiający pulpit i scenerię w ramach sprawdzania w SSS.
 
 ## Poziom dostępności: **10**
 
 Sceneria wpisana do SWDR4 z numerem **efb96a43**
+
+Sceneria należy do Projektu 1001, która zakłada budowę jednej linii składającej się z kilku dwutorowych stacji. Link do projektu: [https://td2.info.pl/w-trakcie-prac/projekt-1001](https://td2.info.pl/w-trakcie-prac/projekt-1001).
